@@ -1,0 +1,1 @@
+var json_Campamento_GALAN_9 = {"type":"FeatureCollection","name":"Campamento_GALAN_9","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"id":"1","Nombre":"Camp. Galán"},"geometry":{"type":"Point","coordinates":[-67.198019410431613,-25.407391206970868]}}]}
